@@ -1,6 +1,6 @@
-void main(List<String> args) {
+void main() {
   num data = 20;
   print(data);
   num data2 = 22.2;
-  print(data);
+  print(data2);
 }
