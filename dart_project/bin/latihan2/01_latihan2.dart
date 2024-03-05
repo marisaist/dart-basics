@@ -1,6 +1,6 @@
 import 'dart:io';
 
-void main(List<String> args) {
+void main() {
   // Input
   stdout.write("Masukkan usia anda: ");
   int? usia = int.tryParse(stdin.readLineSync() ?? "");
